@@ -23,7 +23,8 @@ OTHER_FILES += qml/harbour-otaruoka.qml \
     rpm/harbour-otaruoka.spec \
     rpm/harbour-otaruoka.yaml \
     translations/*.ts \
-    harbour-otaruoka.desktop
+    harbour-otaruoka.desktop \
+    qml/pages/devicePixelRatioHack.js
 
 # to disable building translations every time, comment out the
 # following CONFIG line
